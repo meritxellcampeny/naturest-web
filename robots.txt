@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gerardumbert.github.io/natur.est-gh-pages/sitemap.xml
+Sitemap: https://naturest.cat/sitemap.xml
