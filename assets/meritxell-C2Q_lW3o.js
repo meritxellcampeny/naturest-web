@@ -1,1 +1,0 @@
-var e=`/naturest-web/assets/meritxell-ekL-cMwg.webp`;export{e as t};
